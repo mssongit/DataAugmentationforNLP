@@ -28,7 +28,9 @@
 | Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2109.00523) [code](https://github.com/lancopku/text-autoaugment) | IMDB, SST2, SST5, TREC, YELP2, YELP5 |
 | AEDA: An Easier Data Augmentation Technique for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2108.13230) [code](https://github.com/akkarimi/aeda_nlp) | SST, CR, SUBJ, TREC, PC |
 
+
 ### Translation
+
 
 | Paper | Datasets | 
 | -- | --- |
@@ -80,7 +82,9 @@
 | Logic-Guided Data Augmentation and Regularization for Consistent Question Answering [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.499/) [code](https://github.com/AkariAsai/logic_guided_qa) | WIQA, QuaRel, HotpotQA |
 
 
+
 ### Sequence Tagging
+
 
 | Paper | Datasets | 
 | -- | --- |
@@ -90,7 +94,9 @@
 | SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.691/) [code](https://github.com/rz-zhang/SeqMix) | CoNLL-03, ACE05, Webpage |
 
 
+
 ### Parsing
+
 | Paper | Datasets | 
 | -- | --- |
 | Data Recombination for Neural Semantic Parsing [(ACL '16)](https://www.aclweb.org/anthology/P16-1002/) [code](https://github.com/dongpobeyond/Seq2Act) | GeoQuery, ATIS, Overnight |
@@ -100,7 +106,9 @@
 | GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing [(ICLR '21)](https://openreview.net/forum?id=kyaIeYj4zZ) | SPIDER, WIKISQL, WIKITABLEQUESTIONS |
 
 
+
 ### Grammatical Error Correction
+
 | Paper | Datasets | 
 | -- | --- |
 | GenERRate: Generating Errors for Use in Grammatical Error Detection [(BEA '09)](https://www.aclweb.org/anthology/W09-2112/) | Ungram-BNC |
@@ -120,6 +128,7 @@
 | A syntactic rule-based framework for parallel data synthesis in Japanese GEC [(MIT Thesis '20)](https://dspace.mit.edu/handle/1721.1/127416) | Lang-8 |
 
 
+
 ### Generation
 
 | Paper | Datasets | 
@@ -131,7 +140,9 @@
 | Denoising Pre-Training and Data Augmentation Strategies for Enhanced RDF Verbalization with Transformers [(WebNLG+ @ INLG '20)](https://www.aclweb.org/anthology/2020.webnlg-1.9/) | WebNLG |
 
 
+
 ### Dialogue
+
 | Paper | Datasets | 
 | -- | --- |
 | Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding [(COLING '18)](https://www.aclweb.org/anthology/C18-1105/) [code](https://github.com/AtmaHou/Seq2SeqDataAugmentationForLU) | ATIS, Dec94, Stanford dialogue |
@@ -148,7 +159,9 @@
 | GOLD: Improving Out-of-Scope Detection in Dialogues using Data Augmentation [(EMNLP '21)](https://aclanthology.org/2021.emnlp-main.35/) [code](https://github.com/asappresearch/gold) | SMCalFlow, ROSTD |
 | Improving Automated Evaluation of Open Domain Dialog via Diverse Reference Augmentation [(ACL '21 Findings)](https://aclanthology.org/2021.findings-acl.357/) [code](https://github.com/harsh19/Diverse-Reference-Augmentation/)| DailyDialog |
 
+
 ### Multimodal
+
 | Paper | Datasets | 
 | -- | --- |
 | Data Augmentation for Visual Question Answering [(INLG '17)](https://www.aclweb.org/anthology/W17-3529/) | COCO-VQA, COCO-QA |
@@ -163,7 +176,9 @@
 | Text Augmentation Using BERT for Image Captioning [(Applied Sciences '20)](https://www.mdpi.com/2076-3417/10/17/5978) | MSCOCO |
 | MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks [(IEEE Intelligent Systems '20)](https://ieeexplore.ieee.org/document/9206007) | TODO |
 
+
 ### Mitigating Bias
+
 | Paper | Datasets | 
 | -- | --- |
 | Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods. [(NAACL '18)](https://www.aclweb.org/anthology/N18-2003/) [code](https://github.com/uclanlp/corefBias) | WinoBias, OntoNotes|
@@ -173,13 +188,16 @@
 | Gender Bias in Neural Natural Language Processing. [(Springer '20)](https://link.springer.com/chapter/10.1007%2F978-3-030-62077-6_14 ) | Wikitext-2, CoNLL-2012 |
 | Improving Robustness by Augmenting Training Sentences with Predicate-Argument Structures [(arxiv '20)](https://arxiv.org/abs/2010.12510) | SWAG, CoNLL2009, MultiNLI, HANS|
 
+
 ### Mitigating Class Imbalance
+
 | Paper | Datasets | 
 | -- | --- |
 | SMOTE: Synthetic Minority Over-sampling Technique [(Journal of Artificial Intelligence Research '02)](https://www.jair.org/index.php/jair/article/view/10302) | Pima, Phoneme, Adult, E-state, Satimage, Forest Cover, Oil, Mammography, Can |
 | Active Learning for Word Sense Disambiguation with Methods for Addressing the Class Imbalance Problem [(EMNLP '07)](https://www.aclweb.org/anthology/D07-1082/) | TODO |
 | MLSMOTE: Approaching imbalanced multilabel learning through synthetic instance generation [(Knowledge-Based Systems '15)](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002737?via%3Dihub) | bibtex, cal500, corel5k, slashdot, tmc2007, mediamill, medical, scene, enron, emotions |
 | SMOTE for Learning from Imbalanced Data: Progress and Challenges, Marking the 15-year Anniversary [(Journal of Artificial Intelligence Research '18)](https://www.jair.org/index.php/jair/article/view/11192) | TODO |
+
 
 ### Adversarial examples
 
@@ -193,12 +211,14 @@
 | Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency [(ACL '19)](https://aclanthology.org/P19-1103/) [code](https://github.com/JHL-HUST/PWWS) | IMDB, AG’s News, Yahoo Answers |
 
 
+
 ### Compositionality
 
 | Paper | Datsets | 
 | -- | --- |
 | Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | SCAN |
 | Sequence-Level Mixed Sample Data Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | IWSLT ’14, WMT ’14 | 
+
 
 ### Automated Augmentation
 
