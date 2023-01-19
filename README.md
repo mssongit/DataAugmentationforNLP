@@ -3,7 +3,7 @@
 
 2022/01/18
 
-Data Argumentation for NLP 관련 Paer
+Data Argumentation for NLP 관련 Paper
 
 ### Text Classification
 | Paper | Datasets | 
