@@ -5,6 +5,8 @@
 
 Data Argumentation for NLP 관련 Paper
 
+Text Classification, Translation, Summarization, Sequence Tagging, Question Answering, Parsing, Grammatical Error Correction, Generation, etc...
+
 ### Text Classification
 | Paper | Datasets | 
 | -- | --- |
