@@ -1,9 +1,8 @@
 # DataAugmentationforNLP
 
 
-2022/01/18
 
-Data Argumentation for NLP 관련 Paper
+Data Argumentation for NLP 관련 Paper 모음
 
 Text Classification, Translation, Summarization, Sequence Tagging, Question Answering, Parsing, Grammatical Error Correction, Generation, etc...
 
